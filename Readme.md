@@ -1,1 +1,1 @@
-Let's Start with ASN Reconnaissance soon
+Few of my recon methodology
