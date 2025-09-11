@@ -27,10 +27,10 @@ filename:.git-credentials
 *"target(.)com" SMTP
 *"target(.)com" LDAP
 *"target(.)com" PEM (For Keys)
-"[http://hackerb0y.com](http://hackerb0y.com/)" "password"
-"[http://hackerb0y.com](http://hackerb0y.com/)" "database"
-"[http://hackerb0y.com](http://hackerb0y.com/)" "secret"
-"[http://hackerb0y.com](http://hackerb0y.com/)" "api_key"
+"[http://target.com](http://target.com/)" "password"
+"[http://target.com](http://target.com/)" "database"
+"[http://target.com](http://target.com/)" "secret"
+"[http://target.com](http://target.com/)" "api_key"
 "site . com" ssh language:yaml
 Got config.yaml
 
