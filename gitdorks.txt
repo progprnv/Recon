@@ -36,7 +36,7 @@ filename:.git-credentials
 ----------- ------------- ---------------- ----------- --------------
 
 
-gitHub
+# other gitHub dorks
 
 site:github.com password OR api_key OR secret
 site:github.com filename:config.php
