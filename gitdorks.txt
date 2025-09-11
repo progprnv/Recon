@@ -32,10 +32,8 @@ filename:.git-credentials
 "[http://target.com](http://target.com/)" "secret"
 "[http://target.com](http://target.com/)" "api_key"
 "site . com" ssh language:yaml
-Got config.yaml
 
-
-44444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444
+----------- ------------- ---------------- ----------- --------------
 
 
 gitHub
